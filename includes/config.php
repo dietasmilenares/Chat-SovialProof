@@ -13,7 +13,7 @@ date_default_timezone_set('America/Sao_Paulo');
 // BANCO DE DADOS — Railway
 // ============================================================
 define('DB_HOST', getenv('DB_HOST') ?: 'switchyard.proxy.rlwy.net');
-define('DB_PORT', getenv('DB_PORT') ?: '23106');
+define('DB_PORT', getenv('DB_PORT') ?: '51493');
 define('DB_NAME', getenv('DB_NAME') ?: 'railway');
 define('DB_USER', getenv('DB_USER') ?: 'root');
 define('DB_PASS', getenv('DB_PASS') ?: 'KxUlMVXElJIGZVqsoEnWbLejDsQPPHXF');
